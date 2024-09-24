@@ -1,4 +1,55 @@
 body{
+    font-family: 'Dancing Script', cursive;
     font-family: 'Open Sans', sans-serif;
+}
+.banner-container{
+    background-color: #CBCACC;
+}
+.banner-column{
+    background-color: #8E8C8E;
+}
+.about-container{
+    background-color: #01BBBD;
+}
+.education-container{
+    background-color: #EEEDEE;
+}
+.bg-redtype{
+    color: #CA6A66;
+}
+.circle{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    background-color:#CA6A66 ;
+}
 
+.project-caontainer{
+    background-color: aqua;
+}
+.decoration{
+    text-decoration: none;
+}
+.form-container{
+    background-color: #474C5E;
+}
+.inner-form{
+    background-color: #474C5E;
+}
+.button:hover{
+    background-color: white;
+    color: black;
+}
+
+.footer-circle{
+    background-color: white;
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    display:inline-block;
+    font-size: 40px;
+    text-align: center;
+}
+.footer-circle:hover{
+    background-color:#474C5E;
 }
